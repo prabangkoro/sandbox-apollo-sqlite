@@ -5,6 +5,12 @@ A sandbox to test GraphQL(Apollo) with SQLite DB drivers. Data ORM and setup is 
 - query users (support: limit, offset, and optional search)
 - add user
 
+## Run
+```
+npm install
+node index.js
+```
+
 ## Test
 ### Query User
 ```
